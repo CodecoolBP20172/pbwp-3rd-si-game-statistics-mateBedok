@@ -1,0 +1,8 @@
+Minecraft
+187.16
+7.798333333333333
+52
+2003.0
+"['Minecraft', 23.0, 2009, 'Survival game', 'Microsoft']"
+"{'RPG': 5, 'Survival game': 1, 'Sandbox': 1, 'First-person shooter': 6, 'Action-adventure': 1, 'Real-time strategy': 7, 'Simulation': 3}"
+"[('Diablo III', 2012), ('Terraria', 2011), ('StarCraft II: Wings of Liberty', 2010), ('The Sims 3', 2009), ('Minecraft', 2009), ('Crysis', 2007), (""Garry's Mod"", 2006), ('Guild Wars', 2005), ('Doom 3', 2004), ('The Sims 2', 2004), ('Counter-Strike: Condition Zero', 2004), ('Warhammer 40,000: Dawn of War (including expansions)', 2004), ('Half-Life 2', 2004), ('World of Warcraft', 2004), ('Warcraft III: Reign of Chaos', 2002), ('The Sims', 2000), ('Diablo II', 2000), ('EverQuest', 1999), ('Counter-Strike', 1999), ('Half-Life', 1998), ('StarCraft', 1998), ('Age of Empires', 1997), ('Command & Conquer', 1995), ('Populous', 1989)]"
